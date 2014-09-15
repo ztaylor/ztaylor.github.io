@@ -1,3 +1,3 @@
 ---
 ---
-First.
+Most of us probably keep lists of project and startup ideas (some clever, many terrible). I had a thought that it might be cool to collect mine in public rather than locked away in Evernote, maybe sparking a conversations about these back-of-the-napkin ideas. Find me on Twitter at <a href="https://twitter.com/ztaylor">@ztaylor</a>.
