@@ -2,5 +2,5 @@ title:        Zachary Taylor
 description:  Notes & Ideas
 markdown:     rdiscount
 permalink:    pretty
-pygments:     true
+highlighter:  rouge
 paginate:     5
